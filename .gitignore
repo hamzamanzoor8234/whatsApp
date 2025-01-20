@@ -1,0 +1,6 @@
+.wwebjs_auth/*
+node_modules/*
+.wwebjs_cache/2.3000.1019440441.html
+.wwebjs_cache/2.3000.1019440651.html
+config.bat
+node_modules
